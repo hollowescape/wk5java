@@ -1,4 +1,5 @@
- class add{
+import java.util.*; 
+class add{
 	int a;
 	int b;
 
