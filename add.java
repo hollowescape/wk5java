@@ -6,7 +6,6 @@
 	{
 		a=1;
 		b=1;
-	System.out.println(" the add is"+(a+b));
 	}
 	int calci(int a,int b)
 	{
